@@ -1,0 +1,12 @@
+{
+  "name": "wafer-run/cors",
+  "summary": "cors block",
+  "latest": "0.0.1",
+  "versions": {
+    "0.0.1": {
+      "abi": 1,
+      "wasm_url": "https://github.com/wafer-run/wafer-run/releases/download/v0.0.1/cors.wasm",
+      "crate": "wafer-block-cors"
+    }
+  }
+}

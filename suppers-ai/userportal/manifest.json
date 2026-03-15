@@ -1,0 +1,11 @@
+{
+  "name": "suppers-ai/userportal",
+  "summary": "Solobase userportal block",
+  "latest": "0.0.1",
+  "versions": {
+    "0.0.1": {
+      "abi": 1,
+      "crate": "solobase-core"
+    }
+  }
+}

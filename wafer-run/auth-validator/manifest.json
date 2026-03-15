@@ -1,0 +1,12 @@
+{
+  "name": "wafer-run/auth-validator",
+  "summary": "auth validator block",
+  "latest": "0.0.1",
+  "versions": {
+    "0.0.1": {
+      "abi": 1,
+      "wasm_url": "https://github.com/wafer-run/wafer-run/releases/download/v0.0.1/auth-validator.wasm",
+      "crate": "wafer-block-auth-validator"
+    }
+  }
+}

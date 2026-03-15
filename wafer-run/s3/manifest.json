@@ -1,0 +1,11 @@
+{
+  "name": "wafer-run/s3",
+  "summary": "s3 block",
+  "latest": "0.0.1",
+  "versions": {
+    "0.0.1": {
+      "abi": 1,
+      "crate": "wafer-block-s3"
+    }
+  }
+}

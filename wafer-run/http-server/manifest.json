@@ -1,0 +1,12 @@
+{
+  "name": "wafer-run/http-server",
+  "summary": "HTTP server flow with security, CORS, rate limiting, and routing",
+  "latest": "0.0.1",
+  "versions": {
+    "0.0.1": {
+      "abi": 1,
+      "flow_url": "https://github.com/wafer-run/wafer-run/releases/download/v0.0.1/http-server.flow.json",
+      "crate": "wafer-flow-http-server"
+    }
+  }
+}
